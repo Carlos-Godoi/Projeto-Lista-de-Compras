@@ -7,11 +7,11 @@
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
     "strict": true,
-    "skipLibCheck": true,
+    "skipLibCheck": true,    
     "typeRoots": [
       "./node_modules/@types", 
       "./src/types" // <--- Garanta que o caminho para sua pasta de tipos esteja aqui
-    ]
+    ],
   },
   "include": [
     "src/**/*.ts", 
